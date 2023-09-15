@@ -1,0 +1,149 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    color: #434455;
+    letter-spacing: 2%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button, a {
+    cursor: pointer;
+}
+
+h2 {
+    color: #2E2F42;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    text-align: center;
+}
+
+h3 {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+/*=================== header ===================*/
+
+.page-nav-logo {
+    font-family: "Raleway", sans-serif;
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    text-align: left;
+    text-shadow: 0px 4px 4px #00000040;
+}
+
+.logo-name {
+    color: #4D5AE5;
+    text-shadow: 0px 0px 0px;
+}
+
+.page-nav-list {
+    font-size: 16px;
+    color: #2e2f42;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: capitalize;
+    text-align: left;
+}
+
+.adress-links {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+/*=============================================*/
+
+/*================= MAIN BODY ===============*/
+
+.first-section {
+    background-color: #2E2F42;
+}
+
+.hero {
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    text-align: center;
+}
+
+.header-button {
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 4%;
+    text-align: left;
+    background-color: #4D5AE5;
+}
+
+/*==========================================*/
+
+/*==================== Our Team ===============*/
+
+.second-section {
+    background-color: #F4F4FD;
+}
+
+.team-titles {
+    text-align: center;
+}
+
+.team-text {
+    text-align: center;
+}
+
+/*=============================================*/
+
+/*==================== Footer =================*/
+
+footer {
+    background-color: #2E2F42;
+}
+
+.page-footer-logo {
+    font-family: "Raleway", sans-serif;
+    color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.footer-logo-name {
+    color: #4D5AE5;
+}
+
+.page-footer-text {
+    color: #F4F4FD;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
