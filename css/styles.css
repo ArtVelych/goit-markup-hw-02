@@ -128,9 +128,17 @@ p {
 
 /*==========================================*/
 
+/*==================== Features ===============*/
+
+.features-titles {
+    letter-spacing: 0.02em;
+}
+
+/*==========================================*/
+
 /*==================== Our Team ===============*/
 
-.second-section {
+.third-section {
     background-color: #F4F4FD;
 }
 
@@ -151,6 +159,14 @@ p {
 .team-text {
     letter-spacing: 0.02em;
     text-align: center;
+}
+
+/*=============================================*/
+
+/*==================== Portfolio ===============*/
+
+.fourth-section .portfolio-titles {
+    letter-spacing: 0.02em;
 }
 
 /*=============================================*/
